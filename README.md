@@ -1,10 +1,5 @@
 # Jhonatan Costa
 
-> **Data Analyst | Data & Systems Integration Specialist**  
-> *Background in CAD/CAM engineering and industrial automation.*
-
----
-
 ### About Me
 
 Data Analyst with a strong technical background in industrial environments. Experienced in data modeling, process automation, physical/digital system integrations, and predictive analytics. Focused on bridging hardware communication and modern data architecture.
